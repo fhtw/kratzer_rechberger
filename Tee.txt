@@ -1,0 +1,4 @@
+Grün;
+Schwarz;
+Früchte;
+Jasmin;
